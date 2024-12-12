@@ -1,4 +1,5 @@
-#my React Project
+#ShopChair
 
 ##installation
+
 npm install
